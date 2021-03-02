@@ -1,0 +1,2 @@
+
+const leo = "wicked awesome";
